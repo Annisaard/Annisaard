@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Annisa</h1>
 <h3 align="left">I'm on a journey to become a Frontend Developer</h3>
 <h3 align="left">I started actively coding in late 2021. Being a self-taught developer I am committed to learning something new every day. I'm also happy to share what I've learned with fellow coders on the same journey.</h3>
-<h3 align="left">While I like solving coding challenges, I'm also interested in UI/UX design and will tackle them next!<\h3>
+<h3 align="left">While I like solving coding challenges, I'm also interested in UI/UX design and will tackle them next!</h3>
 
 - 🌱 I’m currently learning React js
 - 👯 Available for work and collaborations 
