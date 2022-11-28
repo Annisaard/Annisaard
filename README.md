@@ -1,11 +1,5 @@
-<h1 align="center"> Hi 👋, I'm Annisa</h1>
-<div align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=35&pause=1000&color=8483F7&center=true&vCenter=true&width=435&lines=Front+End+Developer;UIUX+Designer" alt="Typing SVG" /></a>
-  
-</div>
-<a align="center" ><img align="right" style="margin-left:20px" alt="GIF" src="https://media.giphy.com/media/IbCcsxPmxGzKugAa70/giphy.gif" witdh="200" height="200"/></a>
-
-<br>
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=35&pause=1000&color=8483F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Annisa;Front+End+Developer;UIUX+Designer" alt="Typing SVG" /></a></h1>
+<h1 align="center" ><img align="center" style="margin-left:10px" alt="GIF" src="https://media.giphy.com/media/IbCcsxPmxGzKugAa70/giphy.gif" witdh="200" height="200"/></h1>
 
 ## <h2 align="left" ><img src="https://media.giphy.com/media/eNSg6TN4j9YZTM154J/giphy.gif" witdh="30" height="30"/> <b> More About Me </b></h2>
 
@@ -26,15 +20,14 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <br>
 <br>
-<br>
 
 ## <h2 align="left"><img src="https://media.giphy.com/media/daIfTnwGeY0J3zc1tg/giphy.gif" witdh="30" height="30"/> <b>How to reach me</b></h2>
 
 <p >
-<a href=https://instagram.com/icutttrd?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" style="margin-left= 5px"
+<a href=https://instagram.com/icutttrd?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="instagram" height="25" width="30" /></a>
-<a href="https://www.linkedin.com/in/annisard/" target="blank"><img align="center"
+<a href="https://www.linkedin.com/in/annisard/" target="blank"><img  
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="linkedin" height="25" width="30" /></a>
 <a href="https://twitter.com/icutttrd">
@@ -58,5 +51,3 @@
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
 <p align="center">Made with ❤️ in Indonesia</p>
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
