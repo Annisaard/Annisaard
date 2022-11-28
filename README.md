@@ -1,12 +1,62 @@
-<h1 align="left">Hi 👋, I'm Annisa</h1>
-<h3 align="left">I'm on a journey to become a Frontend Developer</h3>
-<h3 align="left">I started actively coding in 2020. Being a self-taught developer I am committed to learning something new every day. I'm also happy to share what I've learned with fellow coders on the same journey.</h3>
-<h3 align="left">While I like solving coding challenges, I'm also interested in UI/UX design and will tackle them next!</h3>
+<h1 align="center"> Hi 👋, I'm Annisa</h1>
+<div align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=35&pause=1000&color=8483F7&center=true&vCenter=true&width=435&lines=Front+End+Developer;UIUX+Designer" alt="Typing SVG" /></a>
+  
+</div>
+<a align="center" ><img align="right" style="margin-left:20px" alt="GIF" src="https://media.giphy.com/media/IbCcsxPmxGzKugAa70/giphy.gif" witdh="200" height="200"/></a>
 
-- 🌱 I’m currently learning React js
-- 👯 Available for work and collaborations 
-- 📧 For bussiness inquiries: annisarahmadhani78@gmail.com
+<br>
 
+## <h2 align="left" ><img src="https://media.giphy.com/media/eNSg6TN4j9YZTM154J/giphy.gif" witdh="30" height="30"/> <b> More About Me </b></h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h4 align="left">I am a Front-end developer who is passionate about design. I started actively coding in 2020. Being a self-taught developer, I'm committed to learning something new every day. I also enjoy sharing what I've learned with fellow coders on the same journey. </h4>
+
+- 🌱 I’m currently learning <b>Redux</b>
+- 👯 Available for work and collaborations
+- 💬 Ask me about anything tech related, I am happy to help [here](annisarahmadhani78@gmail.com)
+  <br>
+  <br>
+
+## <h2 align="left"><img src="https://media.giphy.com/media/TgyarrvUBCkHdAJfBn/giphy.gif" witdh="30" height="30"/> <b>Languages and Tools</b></h2>
+
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
+      alt="tailwind" width="40" height="40" /> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<br>
+<br>
+<br>
+
+## <h2 align="left"><img src="https://media.giphy.com/media/daIfTnwGeY0J3zc1tg/giphy.gif" witdh="30" height="30"/> <b>How to reach me</b></h2>
+
+<p >
+<a href=https://instagram.com/icutttrd?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" style="margin-left= 5px"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="instagram" height="25" width="30" /></a>
+<a href="https://www.linkedin.com/in/annisard/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="linkedin" height="25" width="30" /></a>
+<a href="https://twitter.com/icutttrd">
+<img align="left" alt="twitter" width="30" heigt="25" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a></p>
+
+<br>
+<br>
+
+## <h2 align="left"><img src="https://media.giphy.com/media/AynUwd5uKhIevEWx54/giphy.gif" witdh="25" height="25"/> <b>Github Stats</b></h2>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=annisaard&&show_icons=true&theme=radical" alt="Annisa's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=annisaard&show_icons=true&locale=en&layout=compact&theme=radical" /></a> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<br>
+<br>
+<h1 align="center">🤝 Support</h1>
+
+<p align="center"> If you're still reading, why not follow me ?? Let's Connect !!</p>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p align="center">Made with ❤️ in Indonesia</p>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
