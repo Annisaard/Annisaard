@@ -1,9 +1,9 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=35&pause=1000&color=8483F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Annisa;Front+End+Developer;UIUX+Designer" alt="Typing SVG" /></a></h1>
-<h1 align="center" ><img align="center" style="margin-left:10px" alt="GIF" src="https://media.giphy.com/media/IbCcsxPmxGzKugAa70/giphy.gif" witdh="200" height="200"/></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=35&pause=1000&color=F74DBD&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Annisa;Front+End+Developer;UIUX+Designer" alt="Typing SVG" /></a></h1>
+<h1 align="center" ><img align="center" style="margin-left:10px" alt="GIF" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" witdh="300" height="300"/></h1>
 
 ## <h2 align="left" ><img src="https://media.giphy.com/media/eNSg6TN4j9YZTM154J/giphy.gif" witdh="30" height="30"/> <b> More About Me </b></h2>
 
-<h4 align="left">I am a Front-end developer who is passionate about design. I started actively coding in 2020. Being a self-taught developer, I'm committed to learning something new every day. I also enjoy sharing what I've learned with fellow coders on the same journey. </h4>
+<p align="left" style="font-weight:400;font-size:18px">I am a Front-end developer who is passionate about design. I started actively coding in 2020. Being a self-taught developer, I'm committed to learning something new every day. I also enjoy sharing what I've learned with fellow coders on the same journey. </p>
 
 - 🌱 I’m currently learning <b>Redux</b>
 - 👯 Available for work and collaborations
@@ -28,7 +28,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="linkedin" height="25" width="30" /></a>
 <a href="https://twitter.com/icutttrd">
-<img align="left" alt="twitter" width="30" heigt="25" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
+<img  alt="twitter" width="30" heigt="25" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
 </a>
 <br>
 
@@ -38,7 +38,7 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <br>
-<br>
+
 <h1 align="center">🤝 Support</h1>
 
 <p align="center"> If you're still reading, why not follow me ?? Let's Connect !!</p>
