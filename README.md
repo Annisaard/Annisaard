@@ -5,7 +5,7 @@
 
 <p align="left" style="font-weight:400;font-size:18px">I am a Front-end developer who is passionate about design. I started actively coding in 2020. Being a self-taught developer, I'm committed to learning something new every day. I also enjoy sharing what I've learned with fellow coders on the same journey. </p>
 
-- 🌱 I’m currently learning <b>Redux</b>
+- 🌱 I’m currently learning <b>Typescript</b>
 - 👯 Available for work and collaborations
 - 💬 Ask me about anything tech related, I am happy to help [here](annisarahmadhani78@gmail.com)
   <br>
